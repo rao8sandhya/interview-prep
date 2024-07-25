@@ -8,12 +8,12 @@
 
 ## Q3
 * How do yo do "root cause analysis" in  an HIE application (health information exchange) with clinical and Hospital  data
-* [answer 2](a3.md)
+* [answer 3](a3.md)
 
 
 ## Q4
 * Give example of "patterns and insights" in  an HIE application (health information exchange) with clinical and Hospital  data
-* [answer 2](a4.md)
+* [answer 4](a4.md)
 
 ## Q5
 * What Kind of Report  and interactive dashboards that help the Clinical and Operations teams in their decision-making uisng HIE application (health information exchange) with clinical and Hospital  data
