@@ -1,0 +1,1 @@
+* [what are basic measure in statistics, in short](kt-1.md)
